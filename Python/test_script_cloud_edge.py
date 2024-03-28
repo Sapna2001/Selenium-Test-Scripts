@@ -4,8 +4,8 @@ from selenium.webdriver import EdgeOptions
 from selenium.webdriver.common.by import By
 
 # Define username, access token, and grid URL required for connecting to LambdaTest Selenium Grid
-username = "harisapnanair"
-accessToken = "SpZZqy1aByCFHNFOpKsau5jEFfFB9SFWYou7CXcdiQ6kvUHllV"
+username = "XXX"
+accessToken = "XXX"
 gridUrl = "hub.lambdatest.com/wd/hub"
 
 # Set the desired capabilities
