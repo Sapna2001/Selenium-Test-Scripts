@@ -14,8 +14,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class JavaSeleniumScript {
-    String username = "harisapnanair";
-    String accessKey = "SpZZqy1aByCFHNFOpKsau5jEFfFB9SFWYou7CXcdiQ6kvUHllV";
+    String username = "XXX";
+    String accessKey = "XXX";
     public static RemoteWebDriver driver = null;
 
     public String gridURL = "@hub.lambdatest.com/wd/hub";
